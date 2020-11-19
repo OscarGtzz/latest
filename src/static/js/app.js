@@ -150,6 +150,8 @@ function ItemDisplay({ item, onItemUpdate, onItemRemoval }) {
                                 ? 'Mark item as incomplete'
                                 : 'Mark item as complete'
                         }
+/*
+calis*/
                     >
                         <i
                             onClick={toggleCompletion}
